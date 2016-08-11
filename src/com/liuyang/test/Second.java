@@ -5,6 +5,6 @@ package com.liuyang.test;
  * 再次添加
  * 测试添加
  * */
-public class Test {
+public class Second {
 
 }
