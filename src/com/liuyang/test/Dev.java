@@ -6,4 +6,8 @@ package com.liuyang.test;
  * */
 public class Dev {
 
+	public String name(){
+		System.out.println("·ÖÖ§Ìí¼Ó");
+		return null;
+	}
 }
